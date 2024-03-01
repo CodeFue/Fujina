@@ -22,3 +22,5 @@ The closest to the idea that I proposed is the trading system based on blockchai
 for Arts which still does not have the features that are proposed by this(playerschain) blockchain
 based webapp. However the the purpose that this system will provide will be unique and very
 helpful to musicians and well renowed music brands to have their quality and standards.
+
+
